@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="debugdrawer-actions-0.7.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/ae76ec0d0ee8247827667a518d63367552c5f2c7/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/ae76ec0d0ee8247827667a518d63367552c5f2c7/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.palaima.debugdrawer/debugdrawer-actions/0.7.0/e0b14a755c1b856f3664a9dde0872dad977b5b6c/debugdrawer-actions-0.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

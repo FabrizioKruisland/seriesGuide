@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:cardview="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    cardview:cardBackgroundColor="?attr/sgColorBackgroundCard"
+    cardview:cardPreventCornerOverlap="false">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:minHeight="@dimen/show_poster_height_large">
+
+            <ImageView
+                android:id="@+id/imageViewAddPoster"
+                android:layout_width="@dimen/show_poster_width_large"
+                android:layout_height="@dimen/show_poster_height_large"
+                android:layout_alignParentLeft="true"
+                android:contentDescription="@null"
+                android:scaleType="centerInside"
+                tools:src="#F50057" />
+
+            <!-- With maxLines ellipsis text is cut off or ellipsis character is not shown.
+            Fixed in later versions of Android, but there maxLines cuts off text
+            on the word level. We want the maximum amount of chars shown instead
+            (which is what singleLine is doing). -->
+            <TextView
+                android:id="@+id/textViewAddTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/large_padding"
+                android:layout_toRightOf="@id/imageViewAddPoster"
+                android:ellipsize="end"
+                android:paddingTop="@dimen/large_padding"
+                android:singleLine="true"
+                android:textAppearance="@style/TextAppearance.Title"
+                tools:ignore="Deprecated"
+                tools:text="Cosmos: A Spacetime Odyssey" />
+
+            <TextView
+                android:id="@+id/textViewAddDescription"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textViewAddTitle"
+                android:layout_toRightOf="@id/imageViewAddPoster"
+                android:ellipsize="end"
+                android:maxLines="3"
+                android:minHeight="54dp"
+                android:paddingBottom="@dimen/large_padding"
+                android:paddingLeft="@dimen/large_padding"
+                android:paddingTop="@dimen/large_padding"
+                android:textAppearance="@style/TextAppearance.Body"
+                tools:ignore="RtlSymmetry"
+                tools:text="Some awesome multi-line and pretty neat and very long description" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/buttonItemAddMore"
+                android:layout_width="56dp"
+                android:layout_height="56dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:contentDescription="@string/description_menu_overflow"
+                android:paddingLeft="12dp"
+                android:paddingTop="4dp"
+                android:scaleType="centerInside"
+                android:tint="?attr/sgColorIcon"
+                app:srcCompat="@drawable/ic_more_vert_white_20dp"
+                tools:ignore="RtlSymmetry" />
+
+            <android.support.v4.widget.Space
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1" />
+
+            <com.battlelancer.seriesguide.widgets.AddIndicator
+                android:id="@+id/addIndicatorAddShow"
+                android:layout_width="56dp"
+                android:layout_height="56dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

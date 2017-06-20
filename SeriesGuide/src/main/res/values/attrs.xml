@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Special drawables -->
+    <attr name="sgActivatedItemBackgroundDrawer" format="reference" />
+    <attr name="sgBorderlessButtonBackground" format="reference" />
+
+    <!-- Text colors -->
+    <attr name="sgTextColorGreen" format="reference|color" />
+    <attr name="sgTextColorSecondaryDim" format="reference|color" />
+
+    <!-- Other colors -->
+    <attr name="sgColorBackgroundCard" format="reference|color" />
+    <attr name="sgColorBackgroundDim" format="reference|color" />
+    <attr name="sgColorIcon" format="reference|color" />
+    <attr name="sgColorSeparator" format="reference|color" />
+    <attr name="sgColorDivider" format="reference|color" />
+    <attr name="sgColorBackgroundDrawer" format="reference|color" />
+    <attr name="sgColorNavDrawerIcon" format="reference" />
+    <attr name="sgColorNavDrawerText" format="reference" />
+    <attr name="sgColorShadow" format="reference|color" />
+
+    <!-- Color Arrays -->
+    <attr name="colorsProgressBar" format="reference" />
+
+    <!-- Drawables -->
+    <attr name="drawableBackgroundGradient" format="reference" />
+    <attr name="drawableCancel" format="reference" />
+    <attr name="drawableCheckin" format="reference" />
+    <attr name="drawableCollect" format="reference" />
+    <attr name="drawableCollectAll" format="reference" />
+    <attr name="drawableList" format="reference" />
+    <attr name="drawableSkip" format="reference" />
+    <attr name="drawableTraktHeart" format="reference" />
+    <attr name="drawableWatch" format="reference" />
+    <attr name="drawableWatchAll" format="reference" />
+    <attr name="drawableWatched" format="reference" />
+    <attr name="drawableWatchedAll" format="reference" />
+    <attr name="drawableWatchSkipped" format="reference" />
+
+    <!-- Empty view attributes -->
+    <declare-styleable name="EmptyView">
+        <attr name="emptyViewMessage" format="string" />
+        <attr name="emptyViewButtonText" format="string" />
+    </declare-styleable>
+
+</resources>

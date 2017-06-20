@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="thetvdb-java-1.4.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uwetrottmann.thetvdb-java/thetvdb-java/1.4.2/9e74435814d883975d7cb5f0d78b7754403593c0/thetvdb-java-1.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uwetrottmann.thetvdb-java/thetvdb-java/1.4.2/9548bea56150f18690c7981ed2940ebc63cec45b/thetvdb-java-1.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

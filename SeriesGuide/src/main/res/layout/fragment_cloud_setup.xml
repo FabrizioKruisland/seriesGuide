@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollViewCloud"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        style="@style/Page.Centered"
+        android:animateLayoutChanges="true"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hexagon_warning"
+            android:textAppearance="@style/TextAppearance.Body.Highlight.Red" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hexagon"
+            android:textAppearance="@style/TextAppearance.Headline" />
+
+        <TextView
+            android:id="@+id/textViewCloudUsername"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.Body"
+            tools:text="example@example.com" />
+
+        <TextView
+            android:id="@+id/textViewCloudDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/large_padding"
+            android:text="@string/hexagon_description"
+            android:textAppearance="@style/TextAppearance.Body" />
+
+        <TextView
+            android:id="@+id/textViewCloudWarnings"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/large_padding"
+            android:text="@string/hexagon_warning_trakt"
+            android:gravity="center_horizontal"
+            android:textAppearance="@style/TextAppearance.Body.Highlight.Red" />
+
+        <Button
+            android:id="@+id/buttonCloudAction"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/large_padding"
+            android:text="@string/hexagon_signin" />
+
+        <ProgressBar
+            android:id="@+id/progressBarCloud"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/default_padding" />
+
+        <Button
+            android:id="@+id/buttonCloudRemoveAccount"
+            style="@style/Widget.SeriesGuide.Button.Borderless.Accent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hexagon_remove_account" />
+
+    </LinearLayout>
+
+</ScrollView>

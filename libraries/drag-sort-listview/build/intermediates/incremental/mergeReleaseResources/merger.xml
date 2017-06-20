@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output$Generated" generated="true"><source path="/Users/FabrizioKruisland/.android/build-cache/0b9fd0a20b490a4a72576767fff35e2818b03f0c/output/res"/></dataSet><dataSet config="output$Generated" generated="true"><source path="/Users/FabrizioKruisland/.android/build-cache/c99db86598e5f1f00cb59c7861a268294b3f6bad/output/res"/></dataSet><dataSet config="output$Generated" generated="true"><source path="/Users/FabrizioKruisland/.android/build-cache/c8dcf994027cf49530b67d6d3cf76aed828d03c2/output/res"/></dataSet><dataSet config="output$Generated" generated="true"><source path="/Users/FabrizioKruisland/.android/build-cache/fb189a650ef41f3dfdc19413fe3b3ae4f4b713dc/output/res"/></dataSet><dataSet config="output$Generated" generated="true"><source path="/Users/FabrizioKruisland/.android/build-cache/70d9386ebf01970fa275d38aba8d42bba91507d6/output/res"/></dataSet><dataSet config="output$Generated" generated="true"><source path="/Users/FabrizioKruisland/.android/build-cache/34a65a999ab7319db30345fc7e1edb5d345fe7bd/output/res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="/Users/FabrizioKruisland/Downloads/SeriesGuide/libraries/drag-sort-listview/res"/><source path="/Users/FabrizioKruisland/Downloads/SeriesGuide/libraries/drag-sort-listview/build/generated/res/rs/release"/><source path="/Users/FabrizioKruisland/Downloads/SeriesGuide/libraries/drag-sort-listview/build/generated/res/resValues/release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="/Users/FabrizioKruisland/Downloads/SeriesGuide/libraries/drag-sort-listview/build-types/release/res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="/Users/FabrizioKruisland/.android/build-cache/0b9fd0a20b490a4a72576767fff35e2818b03f0c/output/res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="/Users/FabrizioKruisland/.android/build-cache/c99db86598e5f1f00cb59c7861a268294b3f6bad/output/res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="/Users/FabrizioKruisland/.android/build-cache/c8dcf994027cf49530b67d6d3cf76aed828d03c2/output/res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="/Users/FabrizioKruisland/.android/build-cache/fb189a650ef41f3dfdc19413fe3b3ae4f4b713dc/output/res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="/Users/FabrizioKruisland/.android/build-cache/70d9386ebf01970fa275d38aba8d42bba91507d6/output/res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="/Users/FabrizioKruisland/.android/build-cache/34a65a999ab7319db30345fc7e1edb5d345fe7bd/output/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/FabrizioKruisland/Downloads/SeriesGuide/libraries/drag-sort-listview/res"><file path="/Users/FabrizioKruisland/Downloads/SeriesGuide/libraries/drag-sort-listview/res/values/dslv_attrs.xml" qualifiers=""><declare-styleable name="DragSortListView">
+    <attr format="dimension" name="collapsed_height"/>
+    <attr format="float" name="drag_scroll_start"/>
+    <attr format="float" name="max_drag_scroll_speed"/>
+    <attr name="remove_mode">
+      <enum name="clickRemove" value="0"/>
+      <enum name="flingRemove" value="1"/>
+    </attr>
+    <attr format="boolean" name="track_drag_sort"/>
+    <attr format="float" name="float_alpha"/>
+    <attr format="float" name="slide_shuffle_speed"/>
+    <attr format="integer" name="remove_animation_duration"/>
+    <attr format="integer" name="drop_animation_duration"/>
+    <attr format="boolean" name="drag_enabled"/>
+    <attr format="boolean" name="sort_enabled"/>
+    <attr format="boolean" name="remove_enabled"/>
+    <attr name="drag_start_mode">
+      <enum name="onDown" value="0"/>
+      <enum name="onMove" value="1"/>
+      <enum name="onLongPress" value="2"/>
+    </attr>
+    <attr format="integer" name="drag_handle_id"/>
+    <attr format="integer" name="fling_handle_id"/>
+    <attr format="integer" name="click_remove_id"/>
+    <attr format="boolean" name="use_default_controller"/>
+  </declare-styleable></file></source><source path="/Users/FabrizioKruisland/Downloads/SeriesGuide/libraries/drag-sort-listview/build/generated/res/rs/release"/><source path="/Users/FabrizioKruisland/Downloads/SeriesGuide/libraries/drag-sort-listview/build/generated/res/resValues/release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="/Users/FabrizioKruisland/Downloads/SeriesGuide/libraries/drag-sort-listview/build-types/release/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="DragSortListView"><attr format="dimension" name="collapsed_height"/><attr format="float" name="drag_scroll_start"/><attr format="float" name="max_drag_scroll_speed"/><attr name="remove_mode">
+      <enum name="clickRemove" value="0"/>
+      <enum name="flingRemove" value="1"/>
+    </attr><attr format="boolean" name="track_drag_sort"/><attr format="float" name="float_alpha"/><attr format="float" name="slide_shuffle_speed"/><attr format="integer" name="remove_animation_duration"/><attr format="integer" name="drop_animation_duration"/><attr format="boolean" name="drag_enabled"/><attr format="boolean" name="sort_enabled"/><attr format="boolean" name="remove_enabled"/><attr name="drag_start_mode">
+      <enum name="onDown" value="0"/>
+      <enum name="onMove" value="1"/>
+      <enum name="onLongPress" value="2"/>
+    </attr><attr format="integer" name="drag_handle_id"/><attr format="integer" name="fling_handle_id"/><attr format="integer" name="click_remove_id"/><attr format="boolean" name="use_default_controller"/></declare-styleable></configuration></mergedItems></merger>

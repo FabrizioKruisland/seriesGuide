@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/xml/settings_basic.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/xml/settings_basic.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/xml/sync_seriesguide.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/amazon/res/xml/sync_seriesguide.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/xml/analytics.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/xml/analytics.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/xml/shortcuts.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/amazon/res/xml/shortcuts.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/xml/appwidget_v11_info.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/xml/appwidget_v11_info.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/xml/accountauth.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/amazon/res/xml/accountauth.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/xml/searchable.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/amazon/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/xml/settings_root.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/amazon/res/xml/settings_root.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/xml/settings_notifications.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/xml/settings_notifications.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/xml/appwidget_info.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/xml/appwidget_info.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/xml/settings_dashclock.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/xml/settings_dashclock.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/xml/settings_advanced.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/xml/settings_advanced.xml"
+    }
+]

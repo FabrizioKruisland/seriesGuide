@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isLargeTablet">true</bool>
+    <item name="abc_dialog_fixed_height_major" type="dimen">60%</item>
+    <item name="abc_dialog_fixed_height_minor" type="dimen">90%</item>
+    <item name="abc_dialog_fixed_width_major" type="dimen">50%</item>
+    <item name="abc_dialog_fixed_width_minor" type="dimen">70%</item>
+    <item name="abc_dialog_min_width_major" type="dimen">45%</item>
+    <item name="abc_dialog_min_width_minor" type="dimen">72%</item>
+    <dimen name="widget_paddingLeft">10dp</dimen>
+    <dimen name="widget_paddingRight">3dp</dimen>
+    <dimen name="widget_poster_width">40dp</dimen>
+    <item name="item_addshow" type="layout">@layout/item_addshow_wide</item>
+    <item name="item_show" type="layout">@layout/item_show_wide</item>
+    <style name="DetailsPane">
+        <item name="android:layout_weight">4</item>
+    </style>
+    <style name="EpisodesPane">
+        <item name="android:layout_weight">3</item>
+    </style>
+</resources>

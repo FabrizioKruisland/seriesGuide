@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/interpolator/accelerate_quad_sg.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/interpolator/accelerate_quad_sg.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/interpolator/decelerate_quad_sg.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/interpolator/decelerate_quad_sg.xml"
+    }
+]

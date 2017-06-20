@@ -1,0 +1,850 @@
+[
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_dropdown_light.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_dropdown_light.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/ratings_movies.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/ratings_movies.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_settings.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_dropdown.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_dropdown.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_webview.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_webview.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/appwidget_row.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/appwidget_row.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/debug_drawer.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/debug_drawer.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/buttons_services_wide.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/buttons_services_wide.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_episode_v21.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_episode_v21.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_notification_selection.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_notification_selection.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_overview_multipane.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_overview_multipane.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dd_debug_drawer_module_log.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/02308b73efa49f540382a79efda24587e2197790/output/res/layout/dd_debug_drawer_module_log.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/buttons_show_bottom.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/buttons_show_bottom.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dialog_localization.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/dialog_localization.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_overview_multipane_wide.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_overview_multipane_wide.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_list.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_list.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_stats.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_stats.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_addshow_tvdb.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_addshow_tvdb.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_cloud_setup.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_cloud_setup.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_person.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_person.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_show_meta.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_show_meta.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/divider_horizontal.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/divider_horizontal.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/grid_shows.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/grid_shows.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/ratings_shows_narrow.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/ratings_shows_narrow.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_show_narrow.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_show_narrow.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_auto_backup.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_auto_backup.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_comments_wide.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_comments_wide.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dd_debug_drawer_module_settings.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/944277028c3a7e776dd49f9ad4160f61efc2c036/output/res/layout/dd_debug_drawer_module_settings.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/buttons_services_stacked.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/buttons_services_stacked.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_connect_trakt_credentials.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_connect_trakt_credentials.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dialog_trakt_rate.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/dialog_trakt_rate.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/toolbar.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/appwidget_v11_light.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/appwidget_v11_light.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_people.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_people.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dialog_buttons_divided.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/dialog_buttons_divided.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_episodes.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_episodes.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_seasons.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_seasons.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_shows.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_shows.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dialog_manage_lists.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/dialog_manage_lists.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/appwidget_v11.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/appwidget_v11.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_search_view.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_person_wide.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_person_wide.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/layout_add_indicator.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/layout_add_indicator.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/view_first_run.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/view_first_run.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dialog_remove.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/dialog_remove.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/notification_template_media.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dd_debug_drawer_module_device.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/944277028c3a7e776dd49f9ad4160f61efc2c036/output/res/layout/dd_debug_drawer_module_device.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dialog_lists_reorder.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/dialog_lists_reorder.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_calendar.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_calendar.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_first_run.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_first_run.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_episode.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_episode.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_now_released.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_now_released.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/appwidget_v11_compact.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/appwidget_v11_compact.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_oauth.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_oauth.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/toolbar_gradient.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/toolbar_gradient.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dd_debug_drawer_module_actions_spinner_item.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/ae76ec0d0ee8247827667a518d63367552c5f2c7/output/res/layout/dd_debug_drawer_module_actions_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_backup.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_backup.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dd_debug_drawer_module_actions.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/ae76ec0d0ee8247827667a518d63367552c5f2c7/output/res/layout/dd_debug_drawer_module_actions.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_people.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_people.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/toolbar_search.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/toolbar_search.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_now.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_now.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_singlepane.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_singlepane.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_season.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_season.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/appwidget_v11_header.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/appwidget_v11_header.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_action.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_action.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_search.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_episodes_multipane_wide.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_episodes_multipane_wide.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_data_liberation.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_data_liberation.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_movies.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_movies.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_discover_header.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_discover_header.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_now_more.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_now_more.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_person.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_person.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/drawer_item_account.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/drawer_item_account.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_history.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_history.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_now_history_movie.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_now_history_movie.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dialog_notification_threshold.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/dialog_notification_threshold.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dialog_buttons.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/dialog_buttons.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/ratings_shows.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/ratings_shows.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_addshow_wide.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_addshow_wide.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/appwidget_row_light.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/appwidget_row_light.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/drawer_left_nofitssystemwindows.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/drawer_left_nofitssystemwindows.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_shows.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_shows.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/buttons_show.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/buttons_show.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/notification_action.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_movie.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_movie.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/buttons_movie.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/buttons_movie.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/toolbar_search_v21.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/toolbar_search_v21.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_movies_discover.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_movies_discover.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_calendar.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_calendar.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_tabs_drawer.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_tabs_drawer.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/cast_and_crew.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/cast_and_crew.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_search.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_connect_trakt_info.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_connect_trakt_info.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/appwidget_v11_light_compact.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/appwidget_v11_light_compact.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/tabstrip_item_allcaps.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/tabstrip_item_allcaps.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_person.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_person.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_episodes.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_episodes.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/layout_episode.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/layout_episode.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_list.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_list.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_history_movie.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_history_movie.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/empty_view.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/empty_view.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_grid_header.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_grid_header.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/design_navigation_item.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/toolbar_progress_v21.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/toolbar_progress_v21.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dd_debug_drawer_module_build.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/944277028c3a7e776dd49f9ad4160f61efc2c036/output/res/layout/dd_debug_drawer_module_build.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_stream.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_stream.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_people_twopane.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_people_twopane.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_connect_trakt_finished.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_connect_trakt_finished.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/feedback_view.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/feedback_view.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_list_checked.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_list_checked.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/appwidget_big_item.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/appwidget_big_item.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_spinner_title.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_spinner_title.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/progress_container.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/progress_container.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_addshow.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_addshow.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_about.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_episode.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_episode.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dialog_checkin.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/dialog_checkin.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_movie.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_movie.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/toolbar_progress.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/toolbar_progress.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_amazon_billing.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/amazon/res/layout/activity_amazon_billing.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_extension.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_extension.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_movies_search.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_movies_search.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_singlepane_drawer.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_singlepane_drawer.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_movie.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_movie.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_discover_link.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_discover_link.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_fullscreen_image.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_fullscreen_image.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_comments.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_comments.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_overview.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_overview.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_comment.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_comment.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dd_item_log_entry.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/02308b73efa49f540382a79efda24587e2197790/output/res/layout/dd_item_log_entry.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_extensions_configuration.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_extensions_configuration.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/tabstrip_item_transparent.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/tabstrip_item_transparent.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dialog_time_offset.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/dialog_time_offset.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_show_regular.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_show_regular.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_search_result.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_search_result.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_episode.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_episode.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/layout_movie.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/layout_movie.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_show_wide.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_show_wide.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/appwidget.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/appwidget.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dialog_list_manage.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/dialog_list_manage.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/buttons_episode_more.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/buttons_episode_more.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dialog_addshow.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/dialog_addshow.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_show.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_show.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/feedback_view_include.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/feedback_view_include.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_movies_search.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_movies_search.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/buttons_episode.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/buttons_episode.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_discover_movie.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_discover_movie.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_billing.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_billing.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_extension_add.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_extension_add.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_now_history.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_now_history.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_addshow_trakt.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_addshow_trakt.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/fragment_overview.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/fragment_overview.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/layout_snackbar_sg.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/layout_snackbar_sg.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/toolbar_transparent_with_spinner.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/toolbar_transparent_with_spinner.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/toolbar_transparent.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/toolbar_transparent.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dd_debug_drawer_module_network.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/944277028c3a7e776dd49f9ad4160f61efc2c036/output/res/layout/dd_debug_drawer_module_network.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/toolbar_v21.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/toolbar_v21.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/drawer_left.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/drawer_left.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/toolbar_gradient_fit.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/toolbar_gradient_fit.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/activity_episodes_multipane.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/activity_episodes_multipane.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/item_action_add.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/item_action_add.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout/dialog_notification_selection.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/layout/dialog_notification_selection.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Tue Jun 20 09:38:31 CEST 2017
+base.0=/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/transforms/dex/amazon/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/transforms/dex/amazon/debug/folders/1000/1f/main/classes.dex

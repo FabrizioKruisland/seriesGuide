@@ -1,0 +1,109 @@
+apply plugin: "java"
+apply plugin: "maven"
+apply plugin: "signing"
+apply plugin: "io.codearte.nexus-staging"
+
+group = "com.uwetrottmann.seriesguide"
+archivesBaseName = "seriesguide-api"
+version = "1.3.0"
+
+// load properties file
+def Properties props = new Properties()
+props.load(new FileInputStream(file("../local.properties")))
+// extract Android SDK dir
+def android = [
+        sdk: props["sdk.dir"],
+        target: "android-24"
+]
+
+compileJava {
+    sourceCompatibility = JavaVersion.VERSION_1_7
+    targetCompatibility = JavaVersion.VERSION_1_7
+}
+
+task generateJavadoc(type: Javadoc) {
+    // do not fail due to exclude being broken https://discuss.gradle.org/t/javadoc-exclusion-question/11875
+    failOnError false
+    source = sourceSets.main.allJava
+    exclude "**/constants/**"
+    title = "SeriesGuide API"
+    options.windowTitle = "SeriesGuide API"
+    options.linksOffline("http://developer.android.com/reference", "${android.sdk}/docs/reference")
+    classpath = files("${android.sdk}/platforms/${android.target}/android.jar", "${android.sdk}/tools/support/annotations.jar")
+    options.noDeprecated = true
+    options.noHelp = true
+    options.noIndex = true
+    options.noTree = true
+    options.stylesheetFile = file('./javadoc_stylesheet.css')
+}
+
+task javadocJar(type: Jar, dependsOn: generateJavadoc) {
+    classifier = "javadoc"
+    from javadoc
+}
+
+task sourcesJar(type: Jar) {
+    classifier = "sources"
+    from sourceSets.main.allSource
+}
+
+artifacts {
+    archives sourcesJar
+    archives javadocJar
+}
+
+dependencies {
+    compile files("${android.sdk}/platforms/${android.target}/android.jar")
+}
+
+signing {
+    sign configurations.archives
+}
+
+uploadArchives {
+    repositories {
+        mavenDeployer {
+            beforeDeployment { MavenDeployment deployment -> signing.signPom(deployment) }
+
+            repository(url: "https://oss.sonatype.org/service/local/staging/deploy/maven2/") {
+                authentication(userName: ossrhUsername, password: ossrhPassword)
+            }
+
+            snapshotRepository(url: "https://oss.sonatype.org/content/repositories/snapshots/") {
+                authentication(userName: ossrhUsername, password: ossrhPassword)
+            }
+
+            pom.project {
+                name "SeriesGuide API"
+                packaging "jar"
+                description "Extension API for SeriesGuide to provide custom actions on media items"
+                url "http://seriesgui.de/api"
+
+                licenses {
+                    license {
+                        name "Public Domain"
+                        url "http://unlicense.org"
+                    }
+                }
+
+                developers {
+                    developer {
+                        id "uwetrottmann"
+                        name "Uwe Trottmann"
+                        url "http://uwetrottmann.com"
+                    }
+                }
+
+                scm {
+                    url "https://github.com/UweTrottmann/SeriesGuide.git"
+                    connection "scm:git:git://github.com/UweTrottmann/SeriesGuide.git"
+                    developerConnection "scm:git:git@github.com:UweTrottmann/SeriesGuide.git"
+                }
+            }
+        }
+    }
+}
+
+nexusStaging {
+    packageGroup = "com.uwetrottmann"
+}

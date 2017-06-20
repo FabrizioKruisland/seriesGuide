@@ -1,0 +1,70 @@
+[
+    {
+        "outputFile": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/incremental/mergeAmazonDebugResources/merged.dir/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-v19/themes.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-v19/themes.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 84,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 560,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 809
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-v19/themes.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 591,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 840
+                    }
+                }
+            }
+        ]
+    }
+]

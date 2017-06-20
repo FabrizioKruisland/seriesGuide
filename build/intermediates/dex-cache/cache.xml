@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/c67c4f6ddfe787bfdc621b6edd0771a5689e27db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_380a37495c624f760d811380312c2766ab4a6ab8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/cc7c7cd7e4919a05c615ae9c26ef4d5807f72cfc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e059dd5885aa22c9f7dbc2b7970bedd650331d1">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_f331802cfa89945b305a658e05b36ed10a6985a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.systembartint/systembartint/1.0.4/6404f77b92ec723cc132e825afe85a07da85ee6/systembartint-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="06404f77b92ec723cc132e825afe85a07da85ee6">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/systembartint-1.0.4_11ae1c94cd81c80b5debe6f7c1a636cf49d46a7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.jakewharton.picasso/picasso2-okhttp3-downloader/1.0.2/74a586d03a233d356290983d1ef23a64c1d122b2/picasso2-okhttp3-downloader-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74a586d03a233d356290983d1ef23a64c1d122b2">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/picasso2-okhttp3-downloader-1.0.2_9e1e8b1c1a936351edc62a2660cbfab9d34f5796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.22.0/1d63f369ac78e4838a3197147012026e791008cb/google-oauth-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/google-oauth-client-1.22.0_d9c06eb87cd5f86fceefcaf809694332e0995020.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.22.0/244350c0c845c583717ade13f5666a452fd0cfa/google-api-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/google-api-client-1.22.0_2f45c13912b831b70cfce151177fc89548d599c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.12.0/3742beff8024d0a0073d284b7c5e4cbf73d99b25/okio-1.12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/okio-1.12.0_0343214c3708c73f2090a3f637e2756782b35a83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/12236113e68a5bb0ea23546b6a27e44d25f306b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_e558c08e8aa8004ec0901220747967c7f4f72820.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/6784130c949eacbb5c096fce54e4249104ec3566/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7242f5af4e0ded59fe787357ee3257e08c1b35f5">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_56ae129b763195e4e31a86fdc540d01e9e16f0ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/Downloads/SeriesGuide/libraries/drag-sort-listview/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e88213931f33ae2a4bb661874eb17c1871461bfb">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_6f2ad55ddb91e063becd83d02ca02565cafedd13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/7f257d8952884fd79f3379a337057d34b6657844/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_508c39b261c8a5ed6b1ee547a6dd3e4fd28255d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/944277028c3a7e776dd49f9ad4160f61efc2c036/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2c7268fbe65d4cbf150032bb7eb9e3e2abd4009">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_fa5c38d19c3e97d11132558790bef30539836e64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.22.0/d441fc58329c4a4c067acec04ac361627f66ecc8/google-http-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/google-http-client-1.22.0_79560c3fc9b9830cc6aff285a01f20fdc6c1ed28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/converter-gson-2.2.0_56b7e5b806ac8530b890f7f872d9cf2b5af21cd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/gson-2.7_acab8fef846d1039408ec1c34d91c61db327eee1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/constraint-layout-solver-1.0.2_d0fdcb27601eb0d74ba97c3112ff161a49b2e04a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/butterknife-annotations-8.5.1_0f8ced92c94b155f178d1c8e9744ff1ae48152c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/jackson-core-2.1.3_0ec6ab3a017b46af98cf3fc4d58982a97d9ef78f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.22.0/6d1e1a76a16a244ab2f41775791be1dd0ec2878a/google-http-client-android-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/google-http-client-android-1.22.0_6ebfdd1633acc9d7331e464fd09aea73693c727f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.uwetrottmann.trakt5/trakt-java/5.7.1/8325cce07c4e5ba8954170e0f1b28cec6c545857/trakt-java-5.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8325cce07c4e5ba8954170e0f1b28cec6c545857">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/trakt-java-5.7.1_4ebe9b8460cfe6a881e6352e4dee23c36d0c9365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/Downloads/SeriesGuide/api/build/libs/seriesguide-api-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4f85eaef99ff26cf4927070e54d8524dddb339f7">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/seriesguide-api-1.3.0_d685bb0a4c71daf9afcb7d72e88fbf14a592b3fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/0b9fd0a20b490a4a72576767fff35e2818b03f0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_653ce4db4a2f17dd993eb5eac3532fd8ba21d43d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_43a678fa3d97df3496841e8c8f0c649cd5c19f4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.9/75a739e59d7ede2f7f425f369955bdd1c2ac122b/dagger-2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75a739e59d7ede2f7f425f369955bdd1c2ac122b">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/dagger-2.9_93b9d0e1cb31ccaad2d5a0195d34c37de63f9ff8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/eventbus-3.0.0_c47434308d749683b77fe00c7f28ba3495e65166.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/d9de3ba4fa4162846128607179e8703c04265fd6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b3e0809640a1faa9c42cb7241576af92cf01a2a">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_9f9fb5cefab11ee5997f4b19660ac9f5643aad02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/34a65a999ab7319db30345fc7e1edb5d345fe7bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_bb2b4f64c5b218f9a1a66c8239396a9b6b5de3ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/javax.inject-1_f246ae6d22eb7b6ec8fb17ef2851960da348c158.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/5f253a8019c0c0481c59f440f69ff439ad6e5b13/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b6503f4b21263f11ee98bb2cc9dc9807a129a8e">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_3a22327055243e804933f1c10b0885ce8c45850e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/7a57799f292120509d2191f4cbe27d14b8ac4d80/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7045152f3bd1870740b9bcb1cddff495e189774e">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_81f4be12aa76acdde5033f95ab27aa7256cc3435.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/02308b73efa49f540382a79efda24587e2197790/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2fb3607c5cf7e6317799f3b52d3f6b70716cbe66">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_2ceddcc5ab5c191a591d48a8081c875b2671961f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/c8dcf994027cf49530b67d6d3cf76aed828d03c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_8654735e0f7791ae88cdc9ee1cefa7d91d8e7ec6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/fb9e54bc1152f475e996b7edfb0bd96f89b011ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_3e6d14ba95280e5d85518cb5fe913e36d3537797.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/8fa03256096d8f86450dbdf025240cdf793ac76a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_d0838c3ffeb1956bce5b9b8615d0ff3ef6fb4135.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/d7a2b1eb59767c55c24150a06571f663186a5461/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_ce2a8ec7b8787597ce6bb1e31ccf7785de7a15e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/c99db86598e5f1f00cb59c7861a268294b3f6bad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_6bd9703065c00cef3d1cb42138054ca6ccd3f475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/650cca6f399ccb0b5c35248e80273d62e690cc3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c74c28a44292b6480afe69ddb2c0974f45393a3a">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_d8481c42a4c54a9f704df93626e49a1c95317ac3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.google.android.apps.dashclock/dashclock-api/2.0.0/fe40ba5457e17502d11114f39b45e9dfe3f51c6d/dashclock-api-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe40ba5457e17502d11114f39b45e9dfe3f51c6d">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/dashclock-api-2.0.0_408fdaaa49b568459a7647576ec405793cf0c042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/dcf3969763c90e3dd238ba06df693254bd7a7ab5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_4f882c0097f6575e4dcf01b6436a5795a4d3cc74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/ae76ec0d0ee8247827667a518d63367552c5f2c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9ba3abaaa61af076c89e7821d249d2c517096b8">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_96250647e538ff4043b2ba657a8d56765cf7fb4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/9f92125791b2930071842a227893e523621f0ad3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_f007380d7ff55c8115e81c7eb2c8a22655d036f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/Downloads/SeriesGuide/libraries/stickygridheaders/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9c26e6ddd7e47e8a3ddf8cdfe7240ab54327cde">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_528b1dd3c3d52dc4928293aac5d1c6773255775b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/jsr305-1.3.9_5d569009eeee0d26513e5449e24cf027e32dc4b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/7173933d6cc1388741ffb2608c9cbaa9bbe12dd6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c807a0a482249046b73f0a3e66dd593faeec7c6">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_5e8773670960b3c2f55c4eca25f883c1a54e2cc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/ab07d5ec9a57aa5185bb7fab8ef8b45ec794d8b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="461929440e66685425a298693507f6fb27b0a872">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_c4597c0e5ae80717e7b9b71bc1afd71687620a0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/fb189a650ef41f3dfdc19413fe3b3ae4f4b713dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_91141808fc6a685e4e56dc5117a92538e6152872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/ae7cdc3449c7e50a7b6ecc49d19070219b1daf36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="005d20a198159b87f65812fc5c51b2d84c5eba0a">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_81abca8016b3a4a2c350e73550e5886b97b22021.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.22.0/cc014d64ae11117e159d334c99d9c246d9b36f44/google-http-client-jackson2-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/google-http-client-jackson2-1.22.0_9f2a1ebf44506a350c5d3783af1dd89bd01310ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/70d9386ebf01970fa275d38aba8d42bba91507d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_78a979611a674a275ec5ea889a560960e1bcbd28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.uwetrottmann.thetvdb-java/thetvdb-java/1.4.2/9e74435814d883975d7cb5f0d78b7754403593c0/thetvdb-java-1.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e74435814d883975d7cb5f0d78b7754403593c0">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/thetvdb-java-1.4.2_037e432937ba937e40aec7391e2eeb4bf3f0b110.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.22.0/7a0fe12b7d8189a821934d6f9d6586d00180e461/google-api-client-android-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/google-api-client-android-1.22.0_f6b67633efba4796401d76971a1723cce8d4e22a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/5c72942948e15f2462dea07a0aea03fbe1d3ebf1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_024b3df5a0a6b905fabd9f5fb9eda8f7c71e5f8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/cd34ad7b1a70fd48db6e63785e801424f9dbaa41/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646439081688c43e04ec4aa7ba6915ddfdcc337f">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_5c8eaa58c3ed2e78dc589620ff4c6c8c80fdbfe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/org.threeten/threetenbp/1.3.3/309242e12648832e7fd9cf253646aec27b3827a0/threetenbp-1.3.3-no-tzdb.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="309242e12648832e7fd9cf253646aec27b3827a0">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/threetenbp-1.3.3-no-tzdb_ef63f8fc6c6f57732e6da77634792121ff7bd8b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/fcbbf0155cbbb23cfc077c03fff638cb88569b85/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_4c0e44cbde7d7dca183784ab8ca7115cf5b4c84b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/libs/amazon/in-app-purchasing-2.0.76.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd7514db97ab6c33057f3725f8754b893bd86e1b">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/in-app-purchasing-2.0.76_1df20744964c511addc172ae0c38335416cec3b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/e7ece46c52adbe057a92123c725f1fdeb55bf10a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_fad2b7e92ebd18b77a2e545475f0332987ff2316.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/retrofit-2.2.0_ff8a5b737fc723506a35faeab37ac93225c39e92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/0f72028a1017a8dbcc977fdf647b607b7783a7ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b42b57cacd24838e3341d5f3cd2035226ef2867">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_1d231b2e57800f917197347da1444e33289f3c7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/4a82daf9df58f2c6be81049d43e34c1c8038e7ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_dd80d6ebe98e3683bf575fd250b4df60375649ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/b3577fa6235117556aba7922ee12559b43539043/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="204f607419af8247cc1b2a61f50663c65f841c12">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_c6f73495bc9f62f202b560d940769254e8976e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/25303492c918c6760c7e14d1c41626b7798bca06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_fe5e71fafcd570051dea83b92d0a6d24e9f5aa75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/picasso-2.5.2_89c3199e8eeb7676f904c98f8c70d26b97bc51ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/8100e35d27bad7da68e2c9c88d587a3e2e63b665/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_4b230fe9cc9e30a365ebecc765904b32e1be9171.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/7122c273b61f5aa7e162c109c4049691d0f86a88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_67c8ecc426b0cacddc0c4389920e180a7d6127ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/support-annotations-25.3.1_91cdad393fb30c550ad94a67089cb0610d6c3b69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_1ed1849ed936be418eedbc411276681d155dad95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.7.0/6edbebdd8868708db718d15c09c4b28037fd487e/okhttp-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/okhttp-3.7.0_acb3e073c3e18a1dc0b1761bed2d85c1ce58c054.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.gradle/caches/modules-2/files-2.1/com.uwetrottmann.tmdb2/tmdb-java/1.6.0/e5fbf27cc2a16f9783bbd40eb6b10ed4fd3c88ca/tmdb-java-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5fbf27cc2a16f9783bbd40eb6b10ed4fd3c88ca">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/tmdb-java-1.6.0_e73001467d221b149b37afce3c932533d26704b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/a0259f75859ff892320c04d4b61947c69a2bacae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_66382a7aa8c57e40b57c3a159d6dbd40b2b9f60d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/FabrizioKruisland/.android/build-cache/719eebbe496e10b55d78486b61a8b2b24b7e57d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/pre-dexed/amazon/debug/classes_dc54d7ebe9e3effd817fbdbd5bfe1688d5f1d892.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout-v21/notification_action.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

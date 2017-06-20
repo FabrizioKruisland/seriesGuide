@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/seasons_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/seasons_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/movies_search_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/movies_search_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/add_dialog_popup_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/add_dialog_popup_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/movie_details_menu_light.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/movie_details_menu_light.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/calendar_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/calendar_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/episodelist_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/episodelist_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/seriesguide_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/seriesguide_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/overview_activity_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/overview_activity_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/widget_config_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/widget_config_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/person_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/person_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/menu_drawer.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/menu_drawer.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/overview_fragment_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/overview_fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/shows_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/shows_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/episodes_popup_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/episodes_popup_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/movies_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/movies_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/show_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/show_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/episodedetails_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/episodedetails_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/movies_lists_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/movies_lists_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/extension_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/extension_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/episodedetails_menu_light.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/episodedetails_menu_light.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/lists_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/lists_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/comments_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/comments_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/stream_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/stream_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/search_history_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/search_history_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/seasons_popup_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/seasons_popup_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/shows_popup_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/shows_popup_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/extensions_configuration_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/extensions_configuration_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/now_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/now_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/movies_popup_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/movies_popup_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/tvdb_add_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/tvdb_add_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/lists_popup_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/lists_popup_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/help_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/help_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/movie_details_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/movie_details_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/stats_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/stats_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/movies_discover_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/movies_discover_menu.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/menu/trakt_library_menu.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/menu/trakt_library_menu.xml"
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isSinglePane">false</bool>
+    <dimen name="search_padding_right">200dp</dimen>
+    <integer name="grid_column_count">2</integer>
+    <item name="activity_episodes" type="layout">@layout/activity_episodes_multipane</item>
+    <item name="fragment_show" type="layout">@layout/fragment_show_narrow</item>
+    <style name="DetailsPane">
+        <item name="android:layout_weight">4</item>
+    </style>
+    <style name="EpisodesPane">
+        <item name="android:layout_weight">3</item>
+    </style>
+    <style name="FirstRunColumn">
+        <item name="android:layout_width">350dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Page.Centered">
+        <item name="android:layout_width">500dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+</resources>

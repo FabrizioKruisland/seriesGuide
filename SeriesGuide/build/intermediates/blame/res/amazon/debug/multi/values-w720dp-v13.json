@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/incremental/mergeAmazonDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-w720dp/dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 52,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 49,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-w720dp/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 49,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 48,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-w720dp/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 48,
+                        "endOffset": 256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 53,
+                    "endOffset": 256
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-w720dp/dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 409,
+                        "endColumn": 53,
+                        "endOffset": 458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 261,
+                    "endColumn": 51,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-w720dp/dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 463,
+                        "endColumn": 51,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 48,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-w720dp/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 48,
+                        "endOffset": 404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 48,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-w720dp/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 48,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 411,
+                    "endColumn": 84,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-w720dp/layouts.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 84,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

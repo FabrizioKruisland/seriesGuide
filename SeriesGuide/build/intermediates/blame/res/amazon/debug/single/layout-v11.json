@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

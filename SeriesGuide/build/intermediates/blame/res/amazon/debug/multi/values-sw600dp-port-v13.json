@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/incremental/mergeAmazonDebugResources/merged.dir/values-sw600dp-port-v13/values-sw600dp-port-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 91,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-sw600dp-port/layouts.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 91,
+                        "endOffset": 202
+                    }
+                }
+            }
+        ]
+    }
+]

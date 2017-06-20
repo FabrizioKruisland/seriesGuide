@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isLargeTablet">true</bool>
+    <dimen name="movie_poster_height">@dimen/movie_poster_height_large</dimen>
+    <dimen name="movie_poster_width">@dimen/movie_poster_width_large</dimen>
+    <dimen name="show_poster_height">@dimen/show_poster_height_large</dimen>
+    <dimen name="show_poster_width">@dimen/show_poster_width_large</dimen>
+    <dimen name="showgrid_columnWidth">330dp</dimen>
+    <item name="item_show" type="layout">@layout/item_show_wide</item>
+</resources>

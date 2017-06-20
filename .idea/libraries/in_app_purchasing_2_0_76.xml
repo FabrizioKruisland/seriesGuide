@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="in-app-purchasing-2.0.76">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SeriesGuide/libs/amazon/in-app-purchasing-2.0.76.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

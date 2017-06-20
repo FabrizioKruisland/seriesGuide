@@ -1,0 +1,186 @@
+[
+    {
+        "outputFile": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/incremental/mergeAmazonDebugResources/merged.dir/values-w590dp-v13/values-w590dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-w590dp/bools.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 42,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 52,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-w590dp/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 172,
+                        "endColumn": 52,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 151,
+                    "endColumn": 49,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-w590dp/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 49,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endColumn": 91,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-w590dp/layouts.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 91,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 80,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-w590dp/layouts.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 80,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-w590dp/styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-w590dp/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-w590dp/styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 960
+                },
+                "from": {
+                    "file": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/values-w590dp/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 284
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="search_padding_right">400dp</dimen>
+    <dimen name="widget_item_height">45dp</dimen>
+    <dimen name="widget_item_width">31dp</dimen>
+    <dimen name="widget_padding_default">16dp</dimen>
+    <dimen name="widget_padding_inline">8dp</dimen>
+    <dimen name="widget_text_large">14sp</dimen>
+    <dimen name="widget_text_small">12sp</dimen>
+    <item name="buttons_services" type="layout">@layout/buttons_services_wide</item>
+</resources>

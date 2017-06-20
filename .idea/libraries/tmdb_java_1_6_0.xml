@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="tmdb-java-1.6.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uwetrottmann.tmdb2/tmdb-java/1.6.0/e5fbf27cc2a16f9783bbd40eb6b10ed4fd3c88ca/tmdb-java-1.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uwetrottmann.tmdb2/tmdb-java/1.6.0/c995fb03b47c166f57cd8663038e3d066adf551c/tmdb-java-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

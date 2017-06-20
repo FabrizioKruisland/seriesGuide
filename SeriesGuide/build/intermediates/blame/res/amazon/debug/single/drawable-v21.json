@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/drawable-v21/list_selector_light.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/drawable-v21/list_selector_light.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/drawable-v21/list_selector_dark.xml",
+        "source": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/src/main/res/drawable-v21/list_selector_dark.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/cc54dd1ecb780f4eb4a3bc0cb62a9957a1a770b2/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/FabrizioKruisland/Downloads/SeriesGuide/SeriesGuide/build/intermediates/res/merged/amazon/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/FabrizioKruisland/.android/build-cache/a36df5a8adbd42c57bd7d48f44b10e0302665f0b/output/res/drawable-v21/avd_show_password.xml"
+    }
+]

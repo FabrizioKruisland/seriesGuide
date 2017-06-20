@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="androidutils-2.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/7173933d6cc1388741ffb2608c9cbaa9bbe12dd6/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/7173933d6cc1388741ffb2608c9cbaa9bbe12dd6/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uwetrottmann.androidutils/androidutils/2.2.1/ac9e30765a5d9f4443862e1ffeb39b9fca50d8f3/androidutils-2.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

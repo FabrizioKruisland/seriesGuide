@@ -1,0 +1,45 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    repositories {
+        jcenter()
+        mavenCentral()
+        maven { url 'https://maven.fabric.io/public' }
+        maven { url "https://plugins.gradle.org/m2/" }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.2' // libraries, SeriesGuide
+        classpath 'com.google.cloud.tools:endpoints-framework-gradle-plugin:1.0.0-beta3' // SeriesGuide
+        classpath 'io.codearte.gradle.nexus:gradle-nexus-staging-plugin:0.7.0' // api
+        classpath 'io.fabric.tools:gradle:1.22.1' // SeriesGuide
+        classpath "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:2.4"
+    }
+}
+
+plugins {
+    id "com.github.ben-manes.versions" version "0.14.0"
+    id "org.sonarqube" version "2.4"
+}
+
+apply plugin: "org.sonarqube"
+
+subprojects {
+    repositories {
+        jcenter()
+        mavenCentral()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+
+ext {
+    androidCompileSdkVersion = 25
+    androidBuildToolsVersion = '25.0.2'
+
+    // API level 15+ -> version 15xxx
+    androidVersionCode = 15256
+    androidVersionName = '37-beta7'
+
+    supportVersion = '25.3.1'
+}
